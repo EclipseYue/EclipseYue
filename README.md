@@ -4,9 +4,7 @@
 
 B.E in Computer Science and Technology in ZJU-Turing.
 
-[![Bilibili]([https://img.shields.io/badge/Bilibili-%E9%9B%B6%E5%BC%8F%E5%B2%9A-pink](https://img.shields.io/badge/Bilibili-%E5%9C%9F%E8%B1%86%E6%B3%A5%E6%AF%94%E6%A0%BC-pink
-))](https://b23.tv/Ps9h7wo)
-
+![Static Badge](https://img.shields.io/badge/Bilibili-%E5%9C%9F%E8%B1%86%E6%B3%A5%E6%AF%94%E6%A0%BC-pink)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EclipseYue)
