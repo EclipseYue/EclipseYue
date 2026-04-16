@@ -1,14 +1,20 @@
-## Hi there 👋
+<div id="title" align=center>
+  
+## Hi there 👋 Lips eating fries🍟
 
+B.E in Computer Science and Technology in ZJU-Turing.
+
+[![Bilibili]()](https://b23.tv/Ps9h7wo)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EclipseYue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EclipseYue&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**EclipseYue/EclipseYue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+![](https://komarev.com/ghpvc/?username=EclipseYue&style=for-the-badge)
+
+***Fake it till make it***
+
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
