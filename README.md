@@ -4,7 +4,7 @@
 
 B.E in Computer Science and Technology in ZJU-Turing.
 
-[![Bilibili]()](https://b23.tv/Ps9h7wo)
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E9%9B%B6%E5%BC%8F%E5%B2%9A-pink)](https://b23.tv/Ps9h7wo)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EclipseYue)
 
@@ -14,13 +14,22 @@ B.E in Computer Science and Technology in ZJU-Turing.
 
 ***Fake it till make it***
 
+
+
 </div>
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+  
 - 🤔 I’m looking for help with ...
+  
 - 💬 Ask me about ...
+  
 - 📫 How to reach me: ...
+  
 - 😄 Pronouns: ...
+  
 - ⚡ Fun fact: ...
 -->
